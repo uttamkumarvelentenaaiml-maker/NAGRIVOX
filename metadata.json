@@ -1,0 +1,7 @@
+{
+  "name": "NAGRIVOX - AI-Powered Citizen Service Readiness Platform",
+  "description": "Your Documents. Your Rights. Our Guidance. Evidence-to-service mapping, document consistency, readiness analysis, and citizen guidance.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
